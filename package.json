@@ -1,0 +1,7 @@
+{
+  "name": "parcel-skeleton",
+  "source": "src/index.html",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
