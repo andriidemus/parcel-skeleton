@@ -1,5 +1,7 @@
 # Parcel Skeleton
 
+Parcel website: https://parceljs.org
+
 ## Run dev server:
 `npx parcel`
 
